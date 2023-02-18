@@ -18,5 +18,5 @@ You can click the Preview link to take a look at your changes.
 <br />
 
 [twitter]: https://twitter.com/Shashank84974645/
-[instagram]: https://www.instagram.com/shashank1403/
+[instagram]: https://www.instagram.com/shashank_1403/
 [linkedin]: https://www.linkedin.com/in/shashank-jaiswal14/
